@@ -1,0 +1,169 @@
+{
+  "home": {
+    "name": "John Doe",
+    "tagline": "Full-Stack Developer | Cloud Architect | UI/UX Enthusiast",
+    "profileImage": ""
+  },
+  "about": {
+    "fullName": "John Doe",
+    "oneLiner": "Building digital experiences that matter",
+    "description": "I'm a passionate full-stack developer with over 10 years of experience crafting elegant solutions to complex problems. My expertise spans across modern web technologies, cloud infrastructure, and creating user-centric applications. I believe in writing clean, maintainable code and delivering products that make a real impact.",
+    "email": "john.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "kpis": [
+      { "value": "10+", "label": "Years Experience" },
+      { "value": "50+", "label": "Projects Completed" },
+      { "value": "8", "label": "Awards Won" },
+      { "value": "15+", "label": "Happy Clients" }
+    ]
+  },
+  "experience": [
+    {
+      "id": "1",
+      "company": "Tech Innovations Inc",
+      "role": "Senior Full-Stack Developer",
+      "period": "2020 - Present",
+      "responsibilities": [
+        "Led development of cloud-native applications serving 1M+ users",
+        "Architected microservices infrastructure reducing costs by 40%",
+        "Mentored team of 5 junior developers"
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Digital Solutions Co",
+      "role": "Frontend Developer",
+      "period": "2017 - 2020",
+      "responsibilities": [
+        "Built responsive web applications using React and TypeScript",
+        "Improved page load times by 60% through optimization",
+        "Collaborated with design team to implement pixel-perfect UIs"
+      ]
+    },
+    {
+      "id": "3",
+      "company": "StartUp Labs",
+      "role": "Junior Developer",
+      "period": "2014 - 2017",
+      "responsibilities": [
+        "Developed RESTful APIs using Node.js and Express",
+        "Implemented authentication and authorization systems",
+        "Participated in agile development processes"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "React", "level": 95 },
+        { "name": "TypeScript", "level": 90 },
+        { "name": "Next.js", "level": 85 },
+        { "name": "TailwindCSS", "level": 90 }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "Node.js", "level": 90 },
+        { "name": "Python", "level": 80 },
+        { "name": "PostgreSQL", "level": 85 },
+        { "name": "MongoDB", "level": 75 }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        { "name": "AWS", "level": 85 },
+        { "name": "Docker", "level": 90 },
+        { "name": "Kubernetes", "level": 75 },
+        { "name": "CI/CD", "level": 80 }
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        { "name": "Git", "level": 95 },
+        { "name": "Figma", "level": 70 },
+        { "name": "VS Code", "level": 95 },
+        { "name": "Postman", "level": 85 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "E-Commerce Platform",
+      "image": "",
+      "techStack": ["React", "Node.js", "PostgreSQL", "AWS"],
+      "tags": ["Web App", "Full-Stack"],
+      "description": "A modern e-commerce platform with real-time inventory management",
+      "contribution": "Led frontend development and architected the state management system",
+      "results": "Increased sales by 150% and reduced cart abandonment by 35%",
+      "links": [
+        { "type": "demo", "url": "https://demo.example.com" },
+        { "type": "github", "url": "https://github.com" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Analytics Dashboard",
+      "image": "",
+      "techStack": ["Next.js", "D3.js", "Python", "MongoDB"],
+      "tags": ["Dashboard", "Data Visualization"],
+      "description": "Real-time analytics dashboard for business intelligence",
+      "contribution": "Built interactive data visualizations and implemented real-time updates",
+      "results": "Enabled data-driven decisions, reducing analysis time by 70%",
+      "links": [
+        { "type": "demo", "url": "https://demo.example.com" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mobile Fitness App",
+      "image": "",
+      "techStack": ["React Native", "Firebase", "Redux"],
+      "tags": ["Mobile", "Health"],
+      "description": "Cross-platform fitness tracking application",
+      "contribution": "Developed core features and integrated third-party APIs",
+      "results": "10K+ downloads with 4.8-star rating on app stores",
+      "links": []
+    }
+  ],
+  "awards": [
+    {
+      "id": "1",
+      "title": "AWS Certified Solutions Architect",
+      "category": "certification",
+      "period": "2022",
+      "institution": "Amazon Web Services",
+      "description": "Professional level certification for cloud architecture"
+    },
+    {
+      "id": "2",
+      "title": "Best Web Application Award",
+      "category": "award",
+      "period": "2021",
+      "institution": "Tech Awards Annual",
+      "description": "Awarded for exceptional user experience and innovation"
+    },
+    {
+      "id": "3",
+      "title": "Advanced React Patterns",
+      "category": "training",
+      "period": "2020",
+      "institution": "Frontend Masters",
+      "description": "Completed advanced training on React design patterns"
+    }
+  ],
+  "contact": {
+    "email": "john.doe@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "kakaoTalk": "https://kakao.com",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "website": "https://johndoe.com"
+  }
+}
